@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccountBookTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccountBookTest_jar</output-path>
+    <root id="archive" name="AccountBookTest.jar">
+      <element id="module-output" name="AccountBookTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Program Files (x86)/H2/bin/h2-1.4.200.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
